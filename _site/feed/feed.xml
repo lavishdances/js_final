@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="en">
+	<title>Alex DeGhettos Portfolio</title>
+	<subtitle>This Portfolio is for Javascript Class</subtitle>
+	<link href="https://example.com/feed/feed.xml" rel="self"/>
+	<link href="https://example.com/about-me/"/>
+	<updated>2023-12-01T00:00:00Z</updated>
+	<id>https://example.com/about-me/</id>
+	<author>
+		<name>Alex DeGhetto</name>
+		<email>ald67@sunyorange.edu</email>
+	</author>
+	
+	<entry>
+		<title>Project #7: JS Poker Game</title>
+		<link href="https://example.com/blog/seventhpost/"/>
+		<updated>2023-12-01T00:00:00Z</updated>
+		<id>https://example.com/blog/seventhpost/</id>
+		<content type="html">&lt;h2 id=&quot;poker-game&quot; tabindex=&quot;-1&quot;&gt;Poker Game &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/seventhpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Today we fixed this poker game!&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://lavishdances.github.io/FallJS.pokergame/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Project #6: JS JS Word Cloud</title>
+		<link href="https://example.com/blog/sixthpost/"/>
+		<updated>2023-11-30T00:00:00Z</updated>
+		<id>https://example.com/blog/sixthpost/</id>
+		<content type="html">&lt;h2 id=&quot;word-cloud&quot; tabindex=&quot;-1&quot;&gt;Word Cloud &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/sixthpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Today we created a Javascript wordcloud
+use the demo and use whatever files you want!&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://lavishdances.github.io/FallJS.wordcloud/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Here are some examples!&lt;/p&gt;
+&lt;p&gt;Abraham Lincoln&#39;s 1st Inaugural Address:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/9ifU4-xhVi-700.avif 700w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/9ifU4-xhVi-700.webp 700w&quot;&gt;&lt;img alt=&quot;Screenshot of page 1&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/9ifU4-xhVi-700.png&quot; width=&quot;700&quot; height=&quot;559&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;John F. Kennedy&#39;s 1960 Inaugural Address:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/2SXV_EIR8y-700.avif 700w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/2SXV_EIR8y-700.webp 700w&quot;&gt;&lt;img alt=&quot;Screenshot of page 1&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/2SXV_EIR8y-700.png&quot; width=&quot;700&quot; height=&quot;555&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Project #5: Coctura</title>
+		<link href="https://example.com/blog/fifthpost/"/>
+		<updated>2023-11-15T00:00:00Z</updated>
+		<id>https://example.com/blog/fifthpost/</id>
+		<content type="html">&lt;h1 id=&quot;coctura&quot; tabindex=&quot;-1&quot;&gt;Coctura &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/fifthpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Today we were tasked with fixing 2 different problems.&lt;/p&gt;
+&lt;p&gt;The first problem was with the websit &amp;quot;Coctura&amp;quot; and it needed to be able to do the math and logic to calculate the total with tax etc. for a model and a plan or not.&lt;/p&gt;
+&lt;p&gt;Heres the Demo:&lt;/p&gt;
+&lt;iframe id=&quot;frame&quot; src=&quot;https://lavishdances.github.io/FallJS.ch6/&quot;&gt;&lt;/iframe&gt;
+&lt;h2&gt; &lt;a href=&quot;https://lavishdances.github.io/FallJS.ch6/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Second problem was with the same website &amp;quot;Coctura&amp;quot; but with a payment submition and a reciet being prompted.&lt;/p&gt;
+&lt;p&gt;Image 1:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/0fQNSRzuhQ-500.avif 500w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/0fQNSRzuhQ-500.webp 500w&quot;&gt;&lt;img alt=&quot;Screenshot of page 1&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/0fQNSRzuhQ-500.png&quot; width=&quot;500&quot; height=&quot;310&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;Image 2:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/Iud1bh7MUF-500.avif 500w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/Iud1bh7MUF-500.webp 500w&quot;&gt;&lt;img alt=&quot;Screenshot of page 2&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/Iud1bh7MUF-500.png&quot; width=&quot;500&quot; height=&quot;190&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Project #4: Slideshow</title>
+		<link href="https://example.com/blog/fourthpost/"/>
+		<updated>2023-10-31T00:00:00Z</updated>
+		<id>https://example.com/blog/fourthpost/</id>
+		<content type="html">&lt;h1 id=&quot;slideshow&quot; tabindex=&quot;-1&quot;&gt;Slideshow &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/fourthpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;We were tasked with creating a basic slideshow for a group of 12 photos.&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://lavishdances.github.io/FallJS.slideshow/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Project #3: Tipton Turbines</title>
+		<link href="https://example.com/blog/thirdpost/"/>
+		<updated>2023-10-30T00:00:00Z</updated>
+		<id>https://example.com/blog/thirdpost/</id>
+		<content type="html">&lt;h1 id=&quot;tipton-turbines&quot; tabindex=&quot;-1&quot;&gt;Tipton Turbines &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/thirdpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;We spoke more about pseudocode.&lt;/p&gt;
+&lt;p&gt;steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;State your purpose (what are you making)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;start with your algorithm (how are you making it)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;move to pseudocode (the working plan)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;actual code (editing and troubleshooting)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;we created a calander example app&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://lavishdances.github.io/FallJS.TTurbines/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Project #2: JS FanTrick</title>
+		<link href="https://example.com/blog/secondpost/"/>
+		<updated>2023-09-26T00:00:00Z</updated>
+		<id>https://example.com/blog/secondpost/</id>
+		<content type="html">&lt;h2 id=&quot;fantrick&quot; tabindex=&quot;-1&quot;&gt;FanTrick &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/secondpost/&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Today we fixed a website &amp;quot;fantrick&amp;quot;.
+the javascript code was broken and would not result any numbers in the output section.&lt;/p&gt;
+&lt;h2&gt;&lt;a href=&quot;https://lavishdances.github.io/FallJS.fantrick/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;</content>
+	</entry>
+	
+	<entry>
+		<title>Project #1: Js Variables</title>
+		<link href="https://example.com/blog/firstpost/"/>
+		<updated>2023-09-25T00:00:00Z</updated>
+		<id>https://example.com/blog/firstpost/</id>
+		<content type="html">&lt;h1 id=&quot;variables&quot; tabindex=&quot;-1&quot;&gt;Variables &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/firstpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Today we learned about Variables and went over basic syntax etc.
+We leaned about &amp;quot;The Playgound&amp;quot;&lt;/p&gt;
+&lt;pre class=&quot;language-diff-js&quot; tabindex=&quot;0&quot;&gt;&lt;code class=&quot;language-diff-js&quot;&gt;&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;The Playground&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;h1&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; quantityPerBox &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; productName &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;wonkabar&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/span&gt;
+&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;describeCandy&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;productName&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; numberOfBoxes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;       &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; numberCandies &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; quantityPerBox &lt;span class=&quot;token operator&quot;&gt;*&lt;/span&gt; numberOfBoxes&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;/span&gt;
+&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;       document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;         &lt;span class=&quot;token string&quot;&gt;&quot;You would like &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;           numberCandies &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;           &lt;span class=&quot;token string&quot;&gt;&quot; of our &quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;           productName &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;           &lt;span class=&quot;token string&quot;&gt;&quot; candies!&quot;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;       &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;/span&gt;
+&lt;span class=&quot;token unchanged language-js&quot;&gt;&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; dino &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Dinosaur&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; time &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; si &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     &lt;span class=&quot;token function&quot;&gt;describeCandy&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;wonkabar&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;12&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;si &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; dino&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;time &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; dino&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;si &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; time&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;time &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; si&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     document&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;dino &lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt; si&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;script&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;--&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// Use of the Lorem--&gt;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     Lorem&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; ipsum dolor sit amet consectetur adipisicing elit&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt; Maxime deleniti
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     rem libero&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; hic itaque suscipit&lt;span class=&quot;token operator&quot;&gt;!&lt;/span&gt; Iste voluptatibus molestias blanditiis ea
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     explicabo nihil suscipit officia doloribus ad maxime sequi laboriosam odit
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     unde accusantium&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; adipisci non ipsam corporis&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; eos minima&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; at quod libero
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     aliquam debitis&lt;span class=&quot;token operator&quot;&gt;?&lt;/span&gt; Inventore itaque debitis earum molestiae&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; iusto
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;     consequuntur&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;
+&lt;span class=&quot;token prefix unchanged&quot;&gt; &lt;/span&gt;   &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+</content>
+	</entry>
+</feed>

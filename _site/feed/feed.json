@@ -1,0 +1,70 @@
+{
+	"version": "https://jsonfeed.org/version/1.1",
+	"title": "Alex DeGhettos Portfolio",
+	"language": "en",
+	"home_page_url": "https://example.com/about-me/",
+	"feed_url": "https://example.com/feed/feed.json",
+	"description": "This Portfolio is for Javascript Class",
+	"author": {
+		"name": "Alex DeGhetto",
+		"url": "https://example.com/about-me/"
+	},
+	"items": [
+		{
+			"id": "https://example.com/blog/seventhpost/",
+			"url": "https://example.com/blog/seventhpost/",
+			"title": "Project #7: JS Poker Game",
+			"content_html": "<h2 id=\"poker-game\" tabindex=\"-1\">Poker Game <a class=\"header-anchor\" href=\"https://example.com/blog/seventhpost/\">#</a></h2>\n<p>Today we fixed this poker game!</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.pokergame/\" target=\"_blank\">Demo</a></h2>",
+			"date_published": "2023-12-01T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/sixthpost/",
+			"url": "https://example.com/blog/sixthpost/",
+			"title": "Project #6: JS JS Word Cloud",
+			"content_html": "<h2 id=\"word-cloud\" tabindex=\"-1\">Word Cloud <a class=\"header-anchor\" href=\"https://example.com/blog/sixthpost/\">#</a></h2>\n<p>Today we created a Javascript wordcloud\nuse the demo and use whatever files you want!</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.wordcloud/\" target=\"_blank\">Demo</a></h2>\n<p>Here are some examples!</p>\n<p>Abraham Lincoln's 1st Inaugural Address:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/9ifU4-xhVi-700.avif 700w\"><source type=\"image/webp\" srcset=\"https://example.com/img/9ifU4-xhVi-700.webp 700w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/9ifU4-xhVi-700.png\" width=\"700\" height=\"559\"></picture></p>\n<p>John F. Kennedy's 1960 Inaugural Address:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/2SXV_EIR8y-700.avif 700w\"><source type=\"image/webp\" srcset=\"https://example.com/img/2SXV_EIR8y-700.webp 700w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/2SXV_EIR8y-700.png\" width=\"700\" height=\"555\"></picture></p>\n",
+			"date_published": "2023-11-30T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/fifthpost/",
+			"url": "https://example.com/blog/fifthpost/",
+			"title": "Project #5: Coctura",
+			"content_html": "<h1 id=\"coctura\" tabindex=\"-1\">Coctura <a class=\"header-anchor\" href=\"https://example.com/blog/fifthpost/\">#</a></h1>\n<p>Today we were tasked with fixing 2 different problems.</p>\n<p>The first problem was with the websit &quot;Coctura&quot; and it needed to be able to do the math and logic to calculate the total with tax etc. for a model and a plan or not.</p>\n<p>Heres the Demo:</p>\n<iframe id=\"frame\" src=\"https://lavishdances.github.io/FallJS.ch6/\"></iframe>\n<h2> <a href=\"https://lavishdances.github.io/FallJS.ch6/\" target=\"_blank\">Demo</a></h2>\n<p>The Second problem was with the same website &quot;Coctura&quot; but with a payment submition and a reciet being prompted.</p>\n<p>Image 1:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.webp 500w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/0fQNSRzuhQ-500.png\" width=\"500\" height=\"310\"></picture></p>\n<p>Image 2:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/Iud1bh7MUF-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/Iud1bh7MUF-500.webp 500w\"><img alt=\"Screenshot of page 2\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/Iud1bh7MUF-500.png\" width=\"500\" height=\"190\"></picture></p>\n",
+			"date_published": "2023-11-15T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/fourthpost/",
+			"url": "https://example.com/blog/fourthpost/",
+			"title": "Project #4: Slideshow",
+			"content_html": "<h1 id=\"slideshow\" tabindex=\"-1\">Slideshow <a class=\"header-anchor\" href=\"https://example.com/blog/fourthpost/\">#</a></h1>\n<p>We were tasked with creating a basic slideshow for a group of 12 photos.</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.slideshow/\" target=\"_blank\">Demo</a></h2>",
+			"date_published": "2023-10-31T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/thirdpost/",
+			"url": "https://example.com/blog/thirdpost/",
+			"title": "Project #3: Tipton Turbines",
+			"content_html": "<h1 id=\"tipton-turbines\" tabindex=\"-1\">Tipton Turbines <a class=\"header-anchor\" href=\"https://example.com/blog/thirdpost/\">#</a></h1>\n<p>We spoke more about pseudocode.</p>\n<p>steps:</p>\n<ol>\n<li>\n<p>State your purpose (what are you making)</p>\n</li>\n<li>\n<p>start with your algorithm (how are you making it)</p>\n</li>\n<li>\n<p>move to pseudocode (the working plan)</p>\n</li>\n<li>\n<p>actual code (editing and troubleshooting)</p>\n</li>\n</ol>\n<p>we created a calander example app</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.TTurbines/\" target=\"_blank\">Demo</a></h2>",
+			"date_published": "2023-10-30T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/secondpost/",
+			"url": "https://example.com/blog/secondpost/",
+			"title": "Project #2: JS FanTrick",
+			"content_html": "<h2 id=\"fantrick\" tabindex=\"-1\">FanTrick <a class=\"header-anchor\" href=\"https://example.com/blog/secondpost/\">#</a></h2>\n<p>Today we fixed a website &quot;fantrick&quot;.\nthe javascript code was broken and would not result any numbers in the output section.</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.fantrick/\" target=\"_blank\">Demo</a></h2>",
+			"date_published": "2023-09-26T00:00:00Z"
+		}
+		,
+		{
+			"id": "https://example.com/blog/firstpost/",
+			"url": "https://example.com/blog/firstpost/",
+			"title": "Project #1: Js Variables",
+			"content_html": "<h1 id=\"variables\" tabindex=\"-1\">Variables <a class=\"header-anchor\" href=\"https://example.com/blog/firstpost/\">#</a></h1>\n<p>Today we learned about Variables and went over basic syntax etc.\nWe leaned about &quot;The Playgound&quot;</p>\n<pre class=\"language-diff-js\" tabindex=\"0\"><code class=\"language-diff-js\"><span class=\"token unchanged language-js\"><span class=\"token prefix unchanged\"> </span><span class=\"token operator\">&lt;</span>h1<span class=\"token operator\">></span>The Playground<span class=\"token operator\">&lt;</span><span class=\"token operator\">/</span>h1<span class=\"token operator\">></span>\n<span class=\"token prefix unchanged\"> </span>   <span class=\"token operator\">&lt;</span>script<span class=\"token operator\">></span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">let</span> quantityPerBox <span class=\"token operator\">=</span> <span class=\"token number\">12</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">let</span> productName <span class=\"token operator\">=</span> <span class=\"token string\">\"wonkabar\"</span><span class=\"token punctuation\">;</span>\n</span>\n<span class=\"token unchanged language-js\"><span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">function</span> <span class=\"token function\">describeCandy</span><span class=\"token punctuation\">(</span><span class=\"token parameter\">productName<span class=\"token punctuation\">,</span> numberOfBoxes</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n<span class=\"token prefix unchanged\"> </span>       <span class=\"token keyword\">var</span> numberCandies <span class=\"token operator\">=</span> quantityPerBox <span class=\"token operator\">*</span> numberOfBoxes<span class=\"token punctuation\">;</span>\n</span>\n<span class=\"token unchanged language-js\"><span class=\"token prefix unchanged\"> </span>       document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>\n<span class=\"token prefix unchanged\"> </span>         <span class=\"token string\">\"You would like \"</span> <span class=\"token operator\">+</span>\n<span class=\"token prefix unchanged\"> </span>           numberCandies <span class=\"token operator\">+</span>\n<span class=\"token prefix unchanged\"> </span>           <span class=\"token string\">\" of our \"</span> <span class=\"token operator\">+</span>\n<span class=\"token prefix unchanged\"> </span>           productName <span class=\"token operator\">+</span>\n<span class=\"token prefix unchanged\"> </span>           <span class=\"token string\">\" candies!\"</span>\n<span class=\"token prefix unchanged\"> </span>       <span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token punctuation\">}</span>\n</span>\n<span class=\"token unchanged language-js\"><span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">let</span> dino <span class=\"token operator\">=</span> <span class=\"token string\">\"Dinosaur\"</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">let</span> time <span class=\"token operator\">=</span> <span class=\"token number\">1000</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token keyword\">let</span> si <span class=\"token operator\">=</span> <span class=\"token boolean\">true</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     <span class=\"token function\">describeCandy</span><span class=\"token punctuation\">(</span><span class=\"token string\">\"wonkabar\"</span><span class=\"token punctuation\">,</span> <span class=\"token number\">12</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>si <span class=\"token operator\">/</span> dino<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>time <span class=\"token operator\">/</span> dino<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>si <span class=\"token operator\">/</span> time<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>time <span class=\"token operator\">/</span> si<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>     document<span class=\"token punctuation\">.</span><span class=\"token function\">write</span><span class=\"token punctuation\">(</span>dino <span class=\"token operator\">/</span> si<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span>\n<span class=\"token prefix unchanged\"> </span>   <span class=\"token operator\">&lt;</span><span class=\"token operator\">/</span>script<span class=\"token operator\">></span>\n<span class=\"token prefix unchanged\"> </span>   <span class=\"token operator\">&lt;</span><span class=\"token operator\">!</span><span class=\"token operator\">--</span><span class=\"token comment\">// Use of the Lorem--></span>\n<span class=\"token prefix unchanged\"> </span>   <span class=\"token operator\">&lt;</span>p<span class=\"token operator\">></span>\n<span class=\"token prefix unchanged\"> </span>     Lorem<span class=\"token punctuation\">,</span> ipsum dolor sit amet consectetur adipisicing elit<span class=\"token punctuation\">.</span> Maxime deleniti\n<span class=\"token prefix unchanged\"> </span>     rem libero<span class=\"token punctuation\">,</span> hic itaque suscipit<span class=\"token operator\">!</span> Iste voluptatibus molestias blanditiis ea\n<span class=\"token prefix unchanged\"> </span>     explicabo nihil suscipit officia doloribus ad maxime sequi laboriosam odit\n<span class=\"token prefix unchanged\"> </span>     unde accusantium<span class=\"token punctuation\">,</span> adipisci non ipsam corporis<span class=\"token punctuation\">,</span> eos minima<span class=\"token punctuation\">,</span> at quod libero\n<span class=\"token prefix unchanged\"> </span>     aliquam debitis<span class=\"token operator\">?</span> Inventore itaque debitis earum molestiae<span class=\"token punctuation\">,</span> iusto\n<span class=\"token prefix unchanged\"> </span>     consequuntur<span class=\"token punctuation\">.</span>\n<span class=\"token prefix unchanged\"> </span>   <span class=\"token operator\">&lt;</span><span class=\"token operator\">/</span>p<span class=\"token operator\">></span>\n</span></code></pre>\n",
+			"date_published": "2023-09-25T00:00:00Z"
+		}
+		
+	]
+}
