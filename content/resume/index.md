@@ -24,7 +24,7 @@ eleventyNavigation:
             <p>SUNY Orange, Middletown NY - A.A.S Degree</p>
             <p>Sep 2022 - Present</p>
     <h2>Work Experience</h2>
-        <h3>Catering Waiter</h3>
+        <h3> Manager(Kitchen/Serving) </h3>
             <p>Top Notch Catering | Kiryas Joel, NY</p>
             <p>Jan 2016 - Present</p>
             <p>My responsibilities included:</p>
