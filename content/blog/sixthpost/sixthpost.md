@@ -1,5 +1,5 @@
 ---
-title: "Project #6: JS JS Word Cloud"
+title: "Project #6: JS Word Cloud"
 description: We fixed a website Fantrick
 date: 2023-11-30
 tags:
