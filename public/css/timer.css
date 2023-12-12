@@ -8,6 +8,9 @@ body {
   background: transparent;
   height: 100%;
 }
+#timer-body{
+  max-width: 60em;
+}
 
 .wrap {
   /* OLD browser support */

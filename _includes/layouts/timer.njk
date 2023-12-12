@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 {%- css %}{% include "public/css/timer.css" %}{%- endcss %}
 <h1>{{ title }}</h1>
-
+<body id="timer-body">
 <div class="wrap"> 
 <h1>Time Until Javascript Final Is Due</h1>
   <div id="countdown">  
@@ -33,3 +33,4 @@ layout: layouts/base.njk
 <script>
 {% include "content/due/timer.js" %}
 </script>
+</body>
