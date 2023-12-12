@@ -95,7 +95,7 @@ p {
   align-items: center;
   justify-content: center;
   width: 150px;
-  border: 1cm black;
+  border-style: solid black 1cm;
 }
 
 #countdown .countdown-section:last-child {
