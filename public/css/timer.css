@@ -106,35 +106,6 @@ p {
   opacity: 1.0
 }
 
-.share {
-  position: relative;
-  padding: 6px 12px 6px 35px;
-  color: black;
-  border: 1px solid black;
-}
-
-.share:hover {
-  color: black;
-  text-decoration: underline;
-  background-color: rgba(255, 255, 255, 0.36);        
-}
-
-.share-twitter {
-  height: 24px;
-  width: 24px;
-  position: absolute;
-  top: 3px;
-  left: 7px;
-}
-
-
-.site-footer {
-  color: #FFF;
-  font-size: 0.875em ;/* 14px */
-    height: 54px;
-  padding-bottom: 20px;
-}
-
 a {
   color: #ff3399;
   text-decoration: none;
