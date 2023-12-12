@@ -83,6 +83,9 @@ p {
   background-color: rgb(109, 109, 109);
   border-right: 1px solid rgba(255, 255, 255, 0.36);
   color: red;
+  border-radius: 10%;
+  text-align: center;
+  font-weight: bold;
 }
 
 #countdown .countdown-section:last-child {
