@@ -5,6 +5,9 @@ eleventyNavigation:
   order: 1
 numberOfLatestPostsToShow: 3
 ---
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
+<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h1>Latest {{ latestPostsCount }} Project{% if latestPostsCount != 1 %}s{% endif %}</h1>
@@ -26,5 +29,29 @@ numberOfLatestPostsToShow: 3
 	{%- endfor %}
 </ul>
 #}
-
-<p>Hello</p>
+<div class="wrap">
+  <h2 class="text-center">Javascript Final DUE</h2>    
+  <div id="countdown">  
+    <div class="countdown-section">
+      <span class="h1 days">-</span>
+      <div class="text-center">DAYS</div>
+    </div>
+    <div class="countdown-section">
+      <span class="h1 hours">-</span>
+      <div class="text-center">HRS</div>
+    </div>
+    <div class="countdown-section">
+      <span class="h1 minutes"></span>
+      <div class="text-center">MINS</div>
+    </div>
+    <div class="countdown-section">
+      <span class="h1 seconds"></span>
+      <div class="text-center">SECS</div>
+    </div>
+  </div>
+ 
+  <footer class="site-footer text-center">
+    <span>&copy; www.grateful.today | What are you grateful for today?</span>
+  </footer>
+</div>
+<script  src="./script.js"></script>
