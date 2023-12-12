@@ -90,7 +90,8 @@ p {
   color: red;
   border-radius: 15%;
   text-align: center;
-  font-weight: 30pt bolder;
+  font-weight: bolder;
+  font-size: 30pt;
   align-items: center;
   justify-content: center;
   width: 150px;
