@@ -94,6 +94,8 @@ p {
   font-weight: bold;
   align-items: center;
   justify-content: center;
+  width: 100px;
+  border: black 1cm;
 }
 
 #countdown .countdown-section:last-child {
