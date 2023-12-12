@@ -1,4 +1,5 @@
-// http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+module.exports = {
+  // http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
 // https://codepen.io/SitePoint/pen/MwNPVq
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - Date.parse(new Date());
@@ -42,3 +43,4 @@ function initializeClock(id, endtime){
 // USE CHRISTMAS DAY so countdown is not a negative value for foreseeable future
 var deadline = 'December 15 2023 00:00:00 UTC';
 initializeClock('countdown', deadline);
+}
