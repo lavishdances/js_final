@@ -90,6 +90,7 @@ p {
 
 #countdown .countdown-section {
   padding: 0 15px;
+  background-color: grey;
   border-right: 1px solid rgba(255, 255, 255, 0.36);
 }
 
@@ -479,7 +480,7 @@ footer {
 <h1></h1>
 
 <div class="wrap"> 
-<h1>Time Until Javascript FInal Is Due</h1>
+<h1>Time Until Javascript Final Is Due</h1>
   <div id="countdown">  
     <div class="countdown-section">
       <span class="h1 days">-</span>
@@ -501,9 +502,6 @@ footer {
 </div>
 <!-- partial -->
 <script>
-
-// http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
-// https://codepen.io/SitePoint/pen/MwNPVq
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - Date.parse(new Date());
   var seconds = Math.floor( (t/1000) % 60 );
@@ -543,10 +541,8 @@ function initializeClock(id, endtime){
 }
 
 // LAUNCH DATE
-// USE CHRISTMAS DAY so countdown is not a negative value for foreseeable future
-var deadline = 'December 15 2023 00:00:00 UTC';
+var deadline = 'December 15 2023 00:00:00 UTC-5';
 initializeClock('countdown', deadline);
-
 </script>
 		</main>
 

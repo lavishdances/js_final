@@ -13,8 +13,8 @@
 		{
 			"id": "https://example.com/blog/eigthpost/",
 			"url": "https://example.com/blog/eigthpost/",
-			"title": "Project #8",
-			"content_html": "<h1 id=\"variables\" tabindex=\"-1\">Variables <a class=\"header-anchor\" href=\"https://example.com/blog/eigthpost/\">#</a></h1>\n",
+			"title": "Project #8: Chapter 9",
+			"content_html": "<h1 id=\"chapter-9\" tabindex=\"-1\">Chapter 9 <a class=\"header-anchor\" href=\"https://example.com/blog/eigthpost/\">#</a></h1>\n<p>Today we learned about Chapter 9.</p>\n",
 			"date_published": "2023-12-10T00:00:00Z"
 		}
 		,

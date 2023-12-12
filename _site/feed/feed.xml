@@ -12,11 +12,12 @@
 	</author>
 	
 	<entry>
-		<title>Project #8</title>
+		<title>Project #8: Chapter 9</title>
 		<link href="https://example.com/blog/eigthpost/"/>
 		<updated>2023-12-10T00:00:00Z</updated>
 		<id>https://example.com/blog/eigthpost/</id>
-		<content type="html">&lt;h1 id=&quot;variables&quot; tabindex=&quot;-1&quot;&gt;Variables &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/eigthpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+		<content type="html">&lt;h1 id=&quot;chapter-9&quot; tabindex=&quot;-1&quot;&gt;Chapter 9 &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/eigthpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Today we learned about Chapter 9.&lt;/p&gt;
 </content>
 	</entry>
 	
