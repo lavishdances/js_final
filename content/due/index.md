@@ -27,6 +27,7 @@ eleventyNavigation:
     </div>
   </div>
 </div>
+<script src="./timer.js">defer</script>
 <style>
 html {
   background: url('http://cdn.willhalling.com/img/pink-cloud.jpg') no-repeat center center fixed; 
