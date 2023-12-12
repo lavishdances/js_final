@@ -6,4 +6,4 @@ eleventyNavigation:
 ---
 <h1>About Me</h1>
 
-I am a person that writes stuff.
+<p>Hello, My name is Alex DeGhetto but im otherwise known as Lavish on Social Media's etc.</p>
