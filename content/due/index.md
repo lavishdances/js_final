@@ -3,8 +3,6 @@ layout: layouts/base.njk
 eleventyNavigation:
   key: FINAL DUE
   order: 6
-  extra_javascript:
-    timer.js
 ---
 <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
 <body>
