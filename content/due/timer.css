@@ -117,14 +117,10 @@ p {
   left: 7px;
 }
 
-.btn-default {
-
-
-}
 
 .site-footer {
   color: #FFF;
-  font-size: 0.875em /* 14px */
+  font-size: 0.875em ;/* 14px */
     height: 54px;
   padding-bottom: 20px;
 }
