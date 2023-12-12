@@ -92,12 +92,7 @@
 	</url>
 	
 	<url>
-		<loc>https://example.com/timer.html</loc>
-		<lastmod>2023-12-12</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/due/timer/</loc>
+		<loc>https://example.com/due/</loc>
 		<lastmod>2023-12-12</lastmod>
 	</url>
 </urlset>
