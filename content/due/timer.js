@@ -37,5 +37,5 @@ function initializeClock(id, endtime){
 }
 
 // LAUNCH DATE
-var deadline = 'December 15 2023 00:00:00 UTC-4';
+var deadline = 'December 15 2023 00:00:00 UTC-5';
 initializeClock('countdown', deadline);
