@@ -74,6 +74,7 @@ p {
   color: black;
   display: flex;
   max-width: 360px;
+  height: 100px;
   justify-content: center;
   margin: 0 auto;
 }
