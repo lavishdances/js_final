@@ -1,5 +1,5 @@
 
-  // http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
+// http://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
 // https://codepen.io/SitePoint/pen/MwNPVq
 function getTimeRemaining(endtime){
   var t = Date.parse(endtime) - Date.parse(new Date());
