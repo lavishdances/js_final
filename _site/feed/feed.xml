@@ -4,12 +4,21 @@
 	<subtitle>This Portfolio is for Javascript Class</subtitle>
 	<link href="https://example.com/feed/feed.xml" rel="self"/>
 	<link href="https://example.com/about-me/"/>
-	<updated>2023-12-01T00:00:00Z</updated>
+	<updated>2023-12-10T00:00:00Z</updated>
 	<id>https://example.com/about-me/</id>
 	<author>
 		<name>Alex DeGhetto</name>
 		<email>ald67@sunyorange.edu</email>
 	</author>
+	
+	<entry>
+		<title>Project #8</title>
+		<link href="https://example.com/blog/eigthpost/"/>
+		<updated>2023-12-10T00:00:00Z</updated>
+		<id>https://example.com/blog/eigthpost/</id>
+		<content type="html">&lt;h1 id=&quot;variables&quot; tabindex=&quot;-1&quot;&gt;Variables &lt;a class=&quot;header-anchor&quot; href=&quot;https://example.com/blog/eigthpost/&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>Project #7: JS Poker Game</title>
@@ -22,7 +31,7 @@
 	</entry>
 	
 	<entry>
-		<title>Project #6: JS JS Word Cloud</title>
+		<title>Project #6: JS Word Cloud</title>
 		<link href="https://example.com/blog/sixthpost/"/>
 		<updated>2023-11-30T00:00:00Z</updated>
 		<id>https://example.com/blog/sixthpost/</id>
@@ -47,7 +56,6 @@ use the demo and use whatever files you want!&lt;/p&gt;
 &lt;p&gt;Today we were tasked with fixing 2 different problems.&lt;/p&gt;
 &lt;p&gt;The first problem was with the websit &amp;quot;Coctura&amp;quot; and it needed to be able to do the math and logic to calculate the total with tax etc. for a model and a plan or not.&lt;/p&gt;
 &lt;p&gt;Heres the Demo:&lt;/p&gt;
-&lt;iframe id=&quot;frame&quot; src=&quot;https://lavishdances.github.io/FallJS.ch6/&quot;&gt;&lt;/iframe&gt;
 &lt;h2&gt; &lt;a href=&quot;https://lavishdances.github.io/FallJS.ch6/&quot; target=&quot;_blank&quot;&gt;Demo&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;The Second problem was with the same website &amp;quot;Coctura&amp;quot; but with a payment submition and a reciet being prompted.&lt;/p&gt;
 &lt;p&gt;Image 1:&lt;/p&gt;

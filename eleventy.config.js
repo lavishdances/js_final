@@ -9,20 +9,6 @@ const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 const pluginDrafts = require("./eleventy.config.drafts.js");
 const pluginImages = require("./eleventy.config.images.js");
-const { minify } = require("terser");
-eleventyConfig.addNunjucksAsyncFilter("jsmin", async function (
-  code,
-  callback
-) {
-  try {
-    const minified = await minify(code);
-    callback(null, minified.code);
-  } catch (err) {
-    console.error("Terser error: ", err);
-    // Fail gracefully.
-    callback(null, code);
-  }
-});
 module.exports = function(eleventyConfig) {
 	// Copy the contents of the `public` folder to the output folder
 	// For example, `./public/css/` ends up in `_site/css/`

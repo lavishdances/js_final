@@ -11,6 +11,14 @@
 	},
 	"items": [
 		{
+			"id": "https://example.com/blog/eigthpost/",
+			"url": "https://example.com/blog/eigthpost/",
+			"title": "Project #8",
+			"content_html": "<h1 id=\"variables\" tabindex=\"-1\">Variables <a class=\"header-anchor\" href=\"https://example.com/blog/eigthpost/\">#</a></h1>\n",
+			"date_published": "2023-12-10T00:00:00Z"
+		}
+		,
+		{
 			"id": "https://example.com/blog/seventhpost/",
 			"url": "https://example.com/blog/seventhpost/",
 			"title": "Project #7: JS Poker Game",
@@ -21,7 +29,7 @@
 		{
 			"id": "https://example.com/blog/sixthpost/",
 			"url": "https://example.com/blog/sixthpost/",
-			"title": "Project #6: JS JS Word Cloud",
+			"title": "Project #6: JS Word Cloud",
 			"content_html": "<h2 id=\"word-cloud\" tabindex=\"-1\">Word Cloud <a class=\"header-anchor\" href=\"https://example.com/blog/sixthpost/\">#</a></h2>\n<p>Today we created a Javascript wordcloud\nuse the demo and use whatever files you want!</p>\n<h2><a href=\"https://lavishdances.github.io/FallJS.wordcloud/\" target=\"_blank\">Demo</a></h2>\n<p>Here are some examples!</p>\n<p>Abraham Lincoln's 1st Inaugural Address:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/9ifU4-xhVi-700.avif 700w\"><source type=\"image/webp\" srcset=\"https://example.com/img/9ifU4-xhVi-700.webp 700w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/9ifU4-xhVi-700.png\" width=\"700\" height=\"559\"></picture></p>\n<p>John F. Kennedy's 1960 Inaugural Address:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/2SXV_EIR8y-700.avif 700w\"><source type=\"image/webp\" srcset=\"https://example.com/img/2SXV_EIR8y-700.webp 700w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/2SXV_EIR8y-700.png\" width=\"700\" height=\"555\"></picture></p>\n",
 			"date_published": "2023-11-30T00:00:00Z"
 		}
@@ -30,7 +38,7 @@
 			"id": "https://example.com/blog/fifthpost/",
 			"url": "https://example.com/blog/fifthpost/",
 			"title": "Project #5: Coctura",
-			"content_html": "<h1 id=\"coctura\" tabindex=\"-1\">Coctura <a class=\"header-anchor\" href=\"https://example.com/blog/fifthpost/\">#</a></h1>\n<p>Today we were tasked with fixing 2 different problems.</p>\n<p>The first problem was with the websit &quot;Coctura&quot; and it needed to be able to do the math and logic to calculate the total with tax etc. for a model and a plan or not.</p>\n<p>Heres the Demo:</p>\n<iframe id=\"frame\" src=\"https://lavishdances.github.io/FallJS.ch6/\"></iframe>\n<h2> <a href=\"https://lavishdances.github.io/FallJS.ch6/\" target=\"_blank\">Demo</a></h2>\n<p>The Second problem was with the same website &quot;Coctura&quot; but with a payment submition and a reciet being prompted.</p>\n<p>Image 1:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.webp 500w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/0fQNSRzuhQ-500.png\" width=\"500\" height=\"310\"></picture></p>\n<p>Image 2:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/Iud1bh7MUF-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/Iud1bh7MUF-500.webp 500w\"><img alt=\"Screenshot of page 2\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/Iud1bh7MUF-500.png\" width=\"500\" height=\"190\"></picture></p>\n",
+			"content_html": "<h1 id=\"coctura\" tabindex=\"-1\">Coctura <a class=\"header-anchor\" href=\"https://example.com/blog/fifthpost/\">#</a></h1>\n<p>Today we were tasked with fixing 2 different problems.</p>\n<p>The first problem was with the websit &quot;Coctura&quot; and it needed to be able to do the math and logic to calculate the total with tax etc. for a model and a plan or not.</p>\n<p>Heres the Demo:</p>\n<h2> <a href=\"https://lavishdances.github.io/FallJS.ch6/\" target=\"_blank\">Demo</a></h2>\n<p>The Second problem was with the same website &quot;Coctura&quot; but with a payment submition and a reciet being prompted.</p>\n<p>Image 1:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/0fQNSRzuhQ-500.webp 500w\"><img alt=\"Screenshot of page 1\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/0fQNSRzuhQ-500.png\" width=\"500\" height=\"310\"></picture></p>\n<p>Image 2:</p>\n<p><picture><source type=\"image/avif\" srcset=\"https://example.com/img/Iud1bh7MUF-500.avif 500w\"><source type=\"image/webp\" srcset=\"https://example.com/img/Iud1bh7MUF-500.webp 500w\"><img alt=\"Screenshot of page 2\" loading=\"lazy\" decoding=\"async\" src=\"https://example.com/img/Iud1bh7MUF-500.png\" width=\"500\" height=\"190\"></picture></p>\n",
 			"date_published": "2023-11-15T00:00:00Z"
 		}
 		,
