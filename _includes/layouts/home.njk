@@ -3,6 +3,7 @@ layout: layouts/base.njk
 ---
 {%- css %}{% include "public/css/click.css" %}{% endcss %}
 {{ content | safe }}
+<body id="bclick">
 <div class="main">
 <h3>Click Counter</h3>
     <button id="clickme">Click me: 0</button>
@@ -10,3 +11,4 @@ layout: layouts/base.njk
 <script>
 {% include "content/due/click.js" %}
 </script>
+</body>
