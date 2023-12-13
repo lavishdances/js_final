@@ -132,17 +132,10 @@
 <script>
 {% include "content/due/light.js" %}
 </script>
-{% raw %}
-<script>
-{% include "https://unpkg.co/gsap@3/dist/gsap.min.js" %}
-</script>
-<script>
-{% include "https://assets.codepen.io/16327/MorphSVGPlugin3.min.js" %}
-</script>
-<script>
-{% include "https://unpkg.com/gsap@3/dist/Draggable.min.js" %}
-</script>
-{% endraw %}
+```
+{r, file='https://unpkg.co/gsap@3/dist/gsap.min.js'}
+```
+
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
 </html>
