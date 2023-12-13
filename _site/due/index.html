@@ -18,6 +18,9 @@ body {
   background: transparent;
   height: 100%;
 }
+#timer-body{
+  max-width: 60em;
+}
 
 .wrap {
   /* OLD browser support */
@@ -83,19 +86,27 @@ p {
 #countdown {
   color: black;
   display: flex;
-  max-width: 360px;
+  max-width: 600px;
+  height: 150px;
   justify-content: center;
   margin: 0 auto;
 }
 
 #countdown .countdown-section {
+  display: flex;
+  flex-direction: column;
   padding: 0 15px;
-  background-color: grey;
-  border-right: 1px solid rgba(255, 255, 255, 0.36);
-}
-
-#countdown .countdown-section:last-child {
-  border-right: 0;
+  background-color: rgb(109, 109, 109);
+  color: red;
+  border-radius: 15%;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 26pt;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  border-style: solid;
+  border-color: black;
 }
 
 #countdown .countdown-section .h1 {
@@ -105,35 +116,6 @@ p {
 #countdown .countdown-section .text-center {
   color: black;
   opacity: 1.0
-}
-
-.share {
-  position: relative;
-  padding: 6px 12px 6px 35px;
-  color: black;
-  border: 1px solid black;
-}
-
-.share:hover {
-  color: black;
-  text-decoration: underline;
-  background-color: rgba(255, 255, 255, 0.36);        
-}
-
-.share-twitter {
-  height: 24px;
-  width: 24px;
-  position: absolute;
-  top: 3px;
-  left: 7px;
-}
-
-
-.site-footer {
-  color: #FFF;
-  font-size: 0.875em ;/* 14px */
-    height: 54px;
-  padding-bottom: 20px;
 }
 
 a {
@@ -478,9 +460,9 @@ footer {
 
 
 <h1></h1>
-
+<body id="timer-body">
 <div class="wrap"> 
-<h1>Time Until Javascript Final Is Due</h1>
+<h1>Time Until Javascript Final Is Due!</h1>
   <div id="countdown">  
     <div class="countdown-section">
       <span class="h1 days">-</span>
@@ -544,6 +526,7 @@ function initializeClock(id, endtime){
 var deadline = 'December 15 2023 00:00:00 UTC-5';
 initializeClock('countdown', deadline);
 </script>
+</body>
 		</main>
 
 		<footer>
