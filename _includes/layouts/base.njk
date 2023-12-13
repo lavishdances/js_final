@@ -132,6 +132,7 @@
 <script>
 {% include "content/due/light.js" %}
 </script>
+{% raw %}
 <script>
 {% include "https://unpkg.co/gsap@3/dist/gsap.min.js" %}
 </script>
@@ -141,7 +142,7 @@
 <script>
 {% include "https://unpkg.com/gsap@3/dist/Draggable.min.js" %}
 </script>
-
+{% endraw %}
 		<!-- Current page: {{ page.url | htmlBaseUrl }} -->
 	</body>
 </html>
